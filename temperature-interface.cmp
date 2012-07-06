@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by CvPcb (2011-11-18 BZR 3241)-stable date = Fri 06 Jul 2012 01:21:18 AM CEST
+
+BeginCmp
+TimeStamp = /4FF5EE48;
+Reference = C1;
+ValeurCmp = 22p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5EE49;
+Reference = C2;
+ValeurCmp = 22p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF6098D;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF612FD;
+Reference = C4;
+ValeurCmp = 100uF;
+IdModule  = C1V7;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF60DFE;
+Reference = C5;
+ValeurCmp = 400uF;
+IdModule  = C1V7;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF611D8;
+Reference = Ct1;
+ValeurCmp = 165p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5F21F;
+Reference = D1;
+ValeurCmp = 3v6;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5F226;
+Reference = D2;
+ValeurCmp = 3v6;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF60EBF;
+Reference = D3;
+ValeurCmp = 1N5819;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5EC99;
+Reference = IC1;
+ValeurCmp = ATMEGA328-P;
+IdModule  = DIP-28__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5F141;
+Reference = J1;
+ValeurCmp = USB_2;
+IdModule  = USB_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF60D6B;
+Reference = L1;
+ValeurCmp = 50uH;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5EFB6;
+Reference = P1;
+ValeurCmp = 1-Wire;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5EEC2;
+Reference = P2;
+ValeurCmp = LCD;
+IdModule  = SIL-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5F257;
+Reference = R1;
+ValeurCmp = 1k5;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5F183;
+Reference = R2;
+ValeurCmp = 68;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5F19E;
+Reference = R3;
+ValeurCmp = 68;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5EFE4;
+Reference = R4;
+ValeurCmp = 4k7;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF61217;
+Reference = R5;
+ValeurCmp = 0R87;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF611BB;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF61186;
+Reference = R7;
+ValeurCmp = 180;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF611AA;
+Reference = R8;
+ValeurCmp = 46k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5EEE2;
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = POACAH;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF60BF9;
+Reference = U1;
+ValeurCmp = MC34063;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FF5EE30;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = HC-18UV;
+EndCmp
+
+EndListe

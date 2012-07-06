@@ -1,0 +1,59 @@
+eeschema (2011-11-18 BZR 3241)-stable  >> Creation date: Fri 06 Jul 2012 12:29:34 AM CEST
+
+#Cmp ( order = Reference )
+| C1         22p         
+| C2         22p         
+| C3         100n        
+| C4         100uF       
+| C5         400uF       
+| Ct1        165p        
+| D1         3v6         
+| D2         3v6         
+| D3         1N5819      
+| IC1        ATMEGA328-P 
+| J1         USB_2       
+| L1         50uH        
+| P1         1-Wire      
+| P2         LCD         
+| R1         1k5         
+| R2         68          
+| R3         68          
+| R4         4k7         
+| R5         0R87        
+| R6         10k         
+| R7         180         
+| R8         46k         
+| RV1        POT         
+| U1         MC34063     
+| X1         16MHz       
+#End Cmp
+
+#Cmp ( order = Value )
+| 0R87         R5        
+| 1-Wire       P1        
+| 100n         C3        
+| 100uF        C4        
+| 10k          R6        
+| 165p         Ct1       
+| 16MHz        X1        
+| 180          R7        
+| 1k5          R1        
+| 1N5819       D3        
+| 22p          C1        
+| 22p          C2        
+| 3v6          D1        
+| 3v6          D2        
+| 400uF        C5        
+| 46k          R8        
+| 4k7          R4        
+| 50uH         L1        
+| 68           R2        
+| 68           R3        
+| ATMEGA328-P  IC1       
+| LCD          P2        
+| MC34063      U1        
+| POT          RV1       
+| USB_2        J1        
+#End Cmp
+
+#End List

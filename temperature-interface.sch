@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fri 06 Jul 2012 03:26:37 AM CEST
+EESchema Schematic File Version 2  date Fri 06 Jul 2012 08:17:58 PM CEST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,7 +29,8 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-EELAYER 43  0
+LIBS:temperature-interface-cache
+EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
@@ -394,7 +395,7 @@ L INDUCTOR L1
 U 1 1 4FF60D6B
 P 9600 4950
 F 0 "L1" V 9550 4950 40  0000 C CNN
-F 1 "50uH" V 9700 4950 40  0000 C CNN
+F 1 "180uH" V 9700 4950 40  0000 C CNN
 	1    9600 4950
 	1    0    0    -1  
 $EndComp

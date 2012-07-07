@@ -1,4 +1,4 @@
-eeschema (2011-11-18 BZR 3241)-stable  >> Creation date: Fri 06 Jul 2012 12:29:34 AM CEST
+eeschema (2011-11-18 BZR 3241)-stable  >> Creation date: Sat 07 Jul 2012 01:14:03 PM CEST
 
 #Cmp ( order = Reference )
 | C1         22p         
@@ -12,7 +12,7 @@ eeschema (2011-11-18 BZR 3241)-stable  >> Creation date: Fri 06 Jul 2012 12:29:3
 | D3         1N5819      
 | IC1        ATMEGA328-P 
 | J1         USB_2       
-| L1         50uH        
+| L1         180uH       
 | P1         1-Wire      
 | P2         LCD         
 | R1         1k5         
@@ -37,6 +37,7 @@ eeschema (2011-11-18 BZR 3241)-stable  >> Creation date: Fri 06 Jul 2012 12:29:3
 | 165p         Ct1       
 | 16MHz        X1        
 | 180          R7        
+| 180uH        L1        
 | 1k5          R1        
 | 1N5819       D3        
 | 22p          C1        
@@ -46,7 +47,6 @@ eeschema (2011-11-18 BZR 3241)-stable  >> Creation date: Fri 06 Jul 2012 12:29:3
 | 400uF        C5        
 | 46k          R8        
 | 4k7          R4        
-| 50uH         L1        
 | 68           R2        
 | 68           R3        
 | ATMEGA328-P  IC1       

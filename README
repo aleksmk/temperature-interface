@@ -1,0 +1,11 @@
+Interface board for the 1-Wire sensor network that we have in the Hacklab KIKA
+(Skopje, Macedonia)
+
+There are three DS18B20 sensors in every room in the hacklab, powered in the
+parasitic method from the data line. The 1-Wire network is intended to be
+upgradable and expanded with other sensors.
+
+The wiki for the temperature sensors is located at
+http://wiki.spodeli.org/Хаклаб/Температура (Macedonian version only)
+
+The live sensor feed is at https://cosm.com/feeds/64655
